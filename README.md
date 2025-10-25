@@ -59,4 +59,4 @@ This project demonstrates how data visualization can simplify complex datasets a
 
 ## 📺 Project Demo
 You can view the demo video of the dashboard here:  
-🎥 *[Chinese SuperMarket Vegetables Sales Dashboard.mp4](./Chinese%20SuperMarket%20Vegetables%20Sales%20Dashboard.mp4)*
+🎥 *[Chinese SuperMarket Vegetables Sales Dashboard.mp4](https://drive.google.com/file/d/1bKofyjRfYrSAfVyXv1P_5jD-k-fnkdNX/view?usp=drivesdk)*
