@@ -1,7 +1,9 @@
 # 🥦 Chinese SuperMarket Vegetables Sales Dashboard
 ---
-## 🖼️ Dashboard Preview
-![Sales Excel Dashboard](Sales%20Excel%20Dashboard.png)
+
+## 📊 Tableau Dashboard Preview
+
+![Tableau Dashboard Preview](Tableau%20Dashboard%20Preview.png)
 
 ---
 
