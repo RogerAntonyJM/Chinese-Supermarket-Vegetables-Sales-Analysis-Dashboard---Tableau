@@ -8,6 +8,11 @@
 
 ---
 
+## 🎬 Dashboard Demo Video
+
+[![Watch the Dashboard Video](https://img.youtube.com/vi/QsD1v7nh_UU/0.jpg)](https://youtu.be/4KHmw48iTGg)
+> Click the image above to watch the full video demonstration on YouTube.
+
 ## 📘 Project Description
 This project presents an interactive **Tableau dashboard** that visualizes the sales performance of various **vegetable products** in a Chinese supermarket. The dashboard was created to analyze sales trends, customer preferences, and product performance over time — providing valuable insights to improve inventory management, pricing, and marketing strategies.
 
