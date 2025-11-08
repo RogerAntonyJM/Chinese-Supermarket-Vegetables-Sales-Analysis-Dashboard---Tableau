@@ -10,7 +10,7 @@
 
 ## 🎬 Dashboard Demo Video
 
-[![Watch the Dashboard Video](https://img.youtube.com/vi/QsD1v7nh_UU/0.jpg)](https://youtu.be/4KHmw48iTGg)
+[![Watch the Dashboard Video](https://img.youtube.com/vi/4KHmw48iTGg)](https://youtu.be/4KHmw48iTGg)
 > Click the image above to watch the full video demonstration on YouTube.
 
 ## 📘 Project Description
