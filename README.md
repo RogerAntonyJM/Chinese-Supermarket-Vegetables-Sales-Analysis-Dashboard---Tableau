@@ -4,7 +4,7 @@
 ## 📊 Tableau Dashboard Preview
 
 ![Tableau Dashboard Preview](Tableau%20Dashboard%20Preview.png)
-> Interactive Tableau dashboard showcasing product sales insights.
+> Interactive Tableau dashboard showcasing product sales insights. 
 
 ---
 
