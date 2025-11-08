@@ -1,4 +1,9 @@
 # 🥦 Chinese SuperMarket Vegetables Sales Dashboard
+---
+## 🖼️ Dashboard Preview
+![Sales Excel Dashboard](Sales%20Excel%20Dashboard.png)
+
+---
 
 ## 📘 Project Description
 This project presents an interactive **Tableau dashboard** that visualizes the sales performance of various **vegetable products** in a Chinese supermarket. The dashboard was created to analyze sales trends, customer preferences, and product performance over time — providing valuable insights to improve inventory management, pricing, and marketing strategies.
